@@ -1,0 +1,673 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Exclusively Breastfed for the First Two Days After Birth,2015,55.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Afghanistan,AF,AFG,4,Exclusively Breastfed for the First Two Days After Birth,2015,53.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Afghanistan,AF,AFG,4,Exclusively Breastfed for the First Two Days After Birth,2015,54.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Albania,AL,ALB,8,Exclusively Breastfed for the First Two Days After Birth,2009,76.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Albania,AL,ALB,8,Exclusively Breastfed for the First Two Days After Birth,2017,70.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Albania,AL,ALB,8,Exclusively Breastfed for the First Two Days After Birth,2009,81.5,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Albania,AL,ALB,8,Exclusively Breastfed for the First Two Days After Birth,2017,72.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Albania,AL,ALB,8,Exclusively Breastfed for the First Two Days After Birth,2009,79.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Albania,AL,ALB,8,Exclusively Breastfed for the First Two Days After Birth,2017,71.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Algeria,DZ,DZA,12,Exclusively Breastfed for the First Two Days After Birth,2019,40.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Algeria,DZ,DZA,12,Exclusively Breastfed for the First Two Days After Birth,2019,39.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Algeria,DZ,DZA,12,Exclusively Breastfed for the First Two Days After Birth,2012,39.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Algeria,DZ,DZA,12,Exclusively Breastfed for the First Two Days After Birth,2019,39.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Angola,AO,AGO,24,Exclusively Breastfed for the First Two Days After Birth,2015,85.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Angola,AO,AGO,24,Exclusively Breastfed for the First Two Days After Birth,2015,84.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Angola,AO,AGO,24,Exclusively Breastfed for the First Two Days After Birth,2015,84.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2000,84.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2005,84.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2010,88.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2016,83.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2000,86.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2005,89.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2010,85.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2016,82.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2000,85.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2005,87.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2010,86.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Armenia,AM,ARM,51,Exclusively Breastfed for the First Two Days After Birth,2016,83.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Azerbaijan,AZ,AZE,31,Exclusively Breastfed for the First Two Days After Birth,2006,49.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Azerbaijan,AZ,AZE,31,Exclusively Breastfed for the First Two Days After Birth,2006,54.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Azerbaijan,AZ,AZE,31,Exclusively Breastfed for the First Two Days After Birth,2006,51.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2007,39.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2011,61.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2014,72.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2018,69.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2019,75.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2007,39.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2011,59.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2014,70.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2018,70.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2019,73.5,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2007,39.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2011,60.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2013,74.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2014,71.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2018,70.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bangladesh,BD,BGD,50,Exclusively Breastfed for the First Two Days After Birth,2019,74.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Barbados,BB,BRB,52,Exclusively Breastfed for the First Two Days After Birth,2012,48.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Belarus,BY,BLR,112,Exclusively Breastfed for the First Two Days After Birth,2019,40.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Belarus,BY,BLR,112,Exclusively Breastfed for the First Two Days After Birth,2019,41.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Belarus,BY,BLR,112,Exclusively Breastfed for the First Two Days After Birth,2012,47.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Belarus,BY,BLR,112,Exclusively Breastfed for the First Two Days After Birth,2019,40.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Belize,BZ,BLZ,84,Exclusively Breastfed for the First Two Days After Birth,2011,70.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Belize,BZ,BLZ,84,Exclusively Breastfed for the First Two Days After Birth,2015,78.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2001,62.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2006,74.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2012,77.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2018,79.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2001,62.5,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2006,74.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2012,76.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2018,78.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2001,62.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2006,74.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2012,76.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2014,75.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Benin,BJ,BEN,204,Exclusively Breastfed for the First Two Days After Birth,2018,79.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bhutan,BT,BTN,64,Exclusively Breastfed for the First Two Days After Birth,2010,90.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2003,67.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bolivia,BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2003,67.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2008,69.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bolivia,BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2008,69.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2016,69.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bolivia,BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2016,69.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2003,67.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bolivia,BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2003,67.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2008,72.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bolivia,BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2008,72.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2016,64.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bolivia,BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2016,64.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2003,67.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bolivia,BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2003,67.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2008,71.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bolivia,BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2008,71.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Bolivia, Plurinational State of",BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2016,67.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bolivia,BO,BOL,68,Exclusively Breastfed for the First Two Days After Birth,2016,67.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Bosnia and Herzegovina,BA,BIH,70,Exclusively Breastfed for the First Two Days After Birth,2012,73.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burkina Faso,BF,BFA,854,Exclusively Breastfed for the First Two Days After Birth,2003,25.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burkina Faso,BF,BFA,854,Exclusively Breastfed for the First Two Days After Birth,2010,64.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burkina Faso,BF,BFA,854,Exclusively Breastfed for the First Two Days After Birth,2003,26.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burkina Faso,BF,BFA,854,Exclusively Breastfed for the First Two Days After Birth,2010,61.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burkina Faso,BF,BFA,854,Exclusively Breastfed for the First Two Days After Birth,2003,25.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burkina Faso,BF,BFA,854,Exclusively Breastfed for the First Two Days After Birth,2010,63.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burundi,BI,BDI,108,Exclusively Breastfed for the First Two Days After Birth,2010,92.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burundi,BI,BDI,108,Exclusively Breastfed for the First Two Days After Birth,2016,93.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burundi,BI,BDI,108,Exclusively Breastfed for the First Two Days After Birth,2010,90.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burundi,BI,BDI,108,Exclusively Breastfed for the First Two Days After Birth,2016,93.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burundi,BI,BDI,108,Exclusively Breastfed for the First Two Days After Birth,2010,91.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burundi,BI,BDI,108,Exclusively Breastfed for the First Two Days After Birth,2016,93.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2000,5.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2005,55.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2010,78.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2014,68.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2000,5.5,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2005,52.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2010,76.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2014,70.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2000,5.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2005,54.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2010,77.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cambodia,KH,KHM,116,Exclusively Breastfed for the First Two Days After Birth,2014,69.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cameroon,CM,CMR,120,Exclusively Breastfed for the First Two Days After Birth,2004,38.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cameroon,CM,CMR,120,Exclusively Breastfed for the First Two Days After Birth,2011,46.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cameroon,CM,CMR,120,Exclusively Breastfed for the First Two Days After Birth,2018,62.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cameroon,CM,CMR,120,Exclusively Breastfed for the First Two Days After Birth,2004,36.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cameroon,CM,CMR,120,Exclusively Breastfed for the First Two Days After Birth,2011,45.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cameroon,CM,CMR,120,Exclusively Breastfed for the First Two Days After Birth,2018,61.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cameroon,CM,CMR,120,Exclusively Breastfed for the First Two Days After Birth,2004,37.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cameroon,CM,CMR,120,Exclusively Breastfed for the First Two Days After Birth,2011,46.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cameroon,CM,CMR,120,Exclusively Breastfed for the First Two Days After Birth,2014,49.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cameroon,CM,CMR,120,Exclusively Breastfed for the First Two Days After Birth,2018,61.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Central African Republic,CF,CAF,140,Exclusively Breastfed for the First Two Days After Birth,2019,86.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Central African Republic,CF,CAF,140,Exclusively Breastfed for the First Two Days After Birth,2019,86.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Central African Republic,CF,CAF,140,Exclusively Breastfed for the First Two Days After Birth,2010,80.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Central African Republic,CF,CAF,140,Exclusively Breastfed for the First Two Days After Birth,2019,86.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Chad,TD,TCD,148,Exclusively Breastfed for the First Two Days After Birth,2004,3.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Chad,TD,TCD,148,Exclusively Breastfed for the First Two Days After Birth,2015,11.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Chad,TD,TCD,148,Exclusively Breastfed for the First Two Days After Birth,2019,15.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Chad,TD,TCD,148,Exclusively Breastfed for the First Two Days After Birth,2004,2.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Chad,TD,TCD,148,Exclusively Breastfed for the First Two Days After Birth,2015,10.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Chad,TD,TCD,148,Exclusively Breastfed for the First Two Days After Birth,2019,13.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Chad,TD,TCD,148,Exclusively Breastfed for the First Two Days After Birth,2004,2.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Chad,TD,TCD,148,Exclusively Breastfed for the First Two Days After Birth,2010,9.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Chad,TD,TCD,148,Exclusively Breastfed for the First Two Days After Birth,2015,10.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Chad,TD,TCD,148,Exclusively Breastfed for the First Two Days After Birth,2019,14.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Colombia,CO,COL,170,Exclusively Breastfed for the First Two Days After Birth,2010,61.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Colombia,CO,COL,170,Exclusively Breastfed for the First Two Days After Birth,2010,60.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Colombia,CO,COL,170,Exclusively Breastfed for the First Two Days After Birth,2010,60.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Comoros,KM,COM,174,Exclusively Breastfed for the First Two Days After Birth,2012,56.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Comoros,KM,COM,174,Exclusively Breastfed for the First Two Days After Birth,2012,51.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Comoros,KM,COM,174,Exclusively Breastfed for the First Two Days After Birth,2012,54.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Congo,CG,COG,178,Exclusively Breastfed for the First Two Days After Birth,2011,59.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Congo,CG,COG,178,Exclusively Breastfed for the First Two Days After Birth,2011,58.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Congo,CG,COG,178,Exclusively Breastfed for the First Two Days After Birth,2011,59.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Congo,CG,COG,178,Exclusively Breastfed for the First Two Days After Birth,2014,67.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Costa Rica,CR,CRI,188,Exclusively Breastfed for the First Two Days After Birth,2011,76.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Costa Rica,CR,CRI,188,Exclusively Breastfed for the First Two Days After Birth,2018,65.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cuba,CU,CUB,192,Exclusively Breastfed for the First Two Days After Birth,2010,82.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cuba,CU,CUB,192,Exclusively Breastfed for the First Two Days After Birth,2014,85.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Cuba,CU,CUB,192,Exclusively Breastfed for the First Two Days After Birth,2019,91.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Côte d'Ivoire,CI,CIV,384,Exclusively Breastfed for the First Two Days After Birth,2012,32.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ivory Coast,CI,CIV,384,Exclusively Breastfed for the First Two Days After Birth,2012,32.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Côte d'Ivoire,CI,CIV,384,Exclusively Breastfed for the First Two Days After Birth,2012,30.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ivory Coast,CI,CIV,384,Exclusively Breastfed for the First Two Days After Birth,2012,30.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Côte d'Ivoire,CI,CIV,384,Exclusively Breastfed for the First Two Days After Birth,2012,31.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ivory Coast,CI,CIV,384,Exclusively Breastfed for the First Two Days After Birth,2012,31.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Côte d'Ivoire,CI,CIV,384,Exclusively Breastfed for the First Two Days After Birth,2016,53.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ivory Coast,CI,CIV,384,Exclusively Breastfed for the First Two Days After Birth,2016,53.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Exclusively Breastfed for the First Two Days After Birth,2007,82.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Exclusively Breastfed for the First Two Days After Birth,2013,88.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Exclusively Breastfed for the First Two Days After Birth,2017,89.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Exclusively Breastfed for the First Two Days After Birth,2007,80.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Exclusively Breastfed for the First Two Days After Birth,2013,86.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Exclusively Breastfed for the First Two Days After Birth,2017,88.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Exclusively Breastfed for the First Two Days After Birth,2007,81.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Exclusively Breastfed for the First Two Days After Birth,2010,85.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Exclusively Breastfed for the First Two Days After Birth,2013,87.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Congo, the Democratic Republic of the",CD,COD,180,Exclusively Breastfed for the First Two Days After Birth,2017,88.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Dominican Republic,DO,DOM,214,Exclusively Breastfed for the First Two Days After Birth,2002,55.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Dominican Republic,DO,DOM,214,Exclusively Breastfed for the First Two Days After Birth,2007,39.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Dominican Republic,DO,DOM,214,Exclusively Breastfed for the First Two Days After Birth,2013,33.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Dominican Republic,DO,DOM,214,Exclusively Breastfed for the First Two Days After Birth,2002,55.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Dominican Republic,DO,DOM,214,Exclusively Breastfed for the First Two Days After Birth,2007,39.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Dominican Republic,DO,DOM,214,Exclusively Breastfed for the First Two Days After Birth,2013,30.5,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Dominican Republic,DO,DOM,214,Exclusively Breastfed for the First Two Days After Birth,2002,55.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Dominican Republic,DO,DOM,214,Exclusively Breastfed for the First Two Days After Birth,2007,39.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Dominican Republic,DO,DOM,214,Exclusively Breastfed for the First Two Days After Birth,2013,32.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Dominican Republic,DO,DOM,214,Exclusively Breastfed for the First Two Days After Birth,2014,36.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2000,41.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2005,46.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2008,51.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2014,36.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2000,41.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2005,46.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2008,50.5,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2014,37.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2000,41.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2005,46.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2008,50.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Egypt,EG,EGY,818,Exclusively Breastfed for the First Two Days After Birth,2014,37.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+El Salvador,SV,SLV,222,Exclusively Breastfed for the First Two Days After Birth,2014,70.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Swaziland,SZ,SWZ,748,Exclusively Breastfed for the First Two Days After Birth,2006,76.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Swaziland,SZ,SWZ,748,Exclusively Breastfed for the First Two Days After Birth,2006,75.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Swaziland,SZ,SWZ,748,Exclusively Breastfed for the First Two Days After Birth,2006,75.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Swaziland,SZ,SWZ,748,Exclusively Breastfed for the First Two Days After Birth,2010,74.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Swaziland,SZ,SWZ,748,Exclusively Breastfed for the First Two Days After Birth,2014,79.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2005,70.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2011,72.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2016,90.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2019,86.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2005,69.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2011,68.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2016,87.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2019,82.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2005,69.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2011,70.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2016,89.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ethiopia,ET,ETH,231,Exclusively Breastfed for the First Two Days After Birth,2019,84.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gabon,GA,GAB,266,Exclusively Breastfed for the First Two Days After Birth,2012,52.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gabon,GA,GAB,266,Exclusively Breastfed for the First Two Days After Birth,2012,49.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gabon,GA,GAB,266,Exclusively Breastfed for the First Two Days After Birth,2012,50.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gambia,GM,GMB,270,Exclusively Breastfed for the First Two Days After Birth,2013,80.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gambia,GM,GMB,270,Exclusively Breastfed for the First Two Days After Birth,2018,84.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gambia,GM,GMB,270,Exclusively Breastfed for the First Two Days After Birth,2020,78.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gambia,GM,GMB,270,Exclusively Breastfed for the First Two Days After Birth,2013,80.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gambia,GM,GMB,270,Exclusively Breastfed for the First Two Days After Birth,2018,86.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gambia,GM,GMB,270,Exclusively Breastfed for the First Two Days After Birth,2020,77.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gambia,GM,GMB,270,Exclusively Breastfed for the First Two Days After Birth,2010,61.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gambia,GM,GMB,270,Exclusively Breastfed for the First Two Days After Birth,2013,80.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gambia,GM,GMB,270,Exclusively Breastfed for the First Two Days After Birth,2018,85.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Gambia,GM,GMB,270,Exclusively Breastfed for the First Two Days After Birth,2020,77.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Georgia,GE,GEO,268,Exclusively Breastfed for the First Two Days After Birth,2018,51.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2003,78.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2008,81.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2014,83.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2017,82.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2003,80.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2008,82.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2014,83.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2017,83.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2003,79.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2008,81.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2011,80.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2014,83.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ghana,GH,GHA,288,Exclusively Breastfed for the First Two Days After Birth,2017,82.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guatemala,GT,GTM,320,Exclusively Breastfed for the First Two Days After Birth,2015,62.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guatemala,GT,GTM,320,Exclusively Breastfed for the First Two Days After Birth,2015,62.5,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guatemala,GT,GTM,320,Exclusively Breastfed for the First Two Days After Birth,2015,62.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea,GN,GIN,324,Exclusively Breastfed for the First Two Days After Birth,2012,39.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea,GN,GIN,324,Exclusively Breastfed for the First Two Days After Birth,2016,55.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea,GN,GIN,324,Exclusively Breastfed for the First Two Days After Birth,2018,59.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea,GN,GIN,324,Exclusively Breastfed for the First Two Days After Birth,2012,39.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea,GN,GIN,324,Exclusively Breastfed for the First Two Days After Birth,2016,54.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea,GN,GIN,324,Exclusively Breastfed for the First Two Days After Birth,2018,59.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea,GN,GIN,324,Exclusively Breastfed for the First Two Days After Birth,2012,39.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea,GN,GIN,324,Exclusively Breastfed for the First Two Days After Birth,2016,55.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea,GN,GIN,324,Exclusively Breastfed for the First Two Days After Birth,2018,59.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea-Bissau,GW,GNB,624,Exclusively Breastfed for the First Two Days After Birth,2014,78.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guinea-Bissau,GW,GNB,624,Exclusively Breastfed for the First Two Days After Birth,2019,84.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guyana,GY,GUY,328,Exclusively Breastfed for the First Two Days After Birth,2009,75.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guyana,GY,GUY,328,Exclusively Breastfed for the First Two Days After Birth,2009,75.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guyana,GY,GUY,328,Exclusively Breastfed for the First Two Days After Birth,2009,75.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Guyana,GY,GUY,328,Exclusively Breastfed for the First Two Days After Birth,2014,72.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Haiti,HT,HTI,332,Exclusively Breastfed for the First Two Days After Birth,2006,69.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Haiti,HT,HTI,332,Exclusively Breastfed for the First Two Days After Birth,2012,77.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Haiti,HT,HTI,332,Exclusively Breastfed for the First Two Days After Birth,2017,78.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Haiti,HT,HTI,332,Exclusively Breastfed for the First Two Days After Birth,2006,65.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Haiti,HT,HTI,332,Exclusively Breastfed for the First Two Days After Birth,2012,78.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Haiti,HT,HTI,332,Exclusively Breastfed for the First Two Days After Birth,2017,77.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Haiti,HT,HTI,332,Exclusively Breastfed for the First Two Days After Birth,2006,67.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Haiti,HT,HTI,332,Exclusively Breastfed for the First Two Days After Birth,2012,77.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Haiti,HT,HTI,332,Exclusively Breastfed for the First Two Days After Birth,2017,77.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Honduras,HN,HND,340,Exclusively Breastfed for the First Two Days After Birth,2006,67.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Honduras,HN,HND,340,Exclusively Breastfed for the First Two Days After Birth,2012,55.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Honduras,HN,HND,340,Exclusively Breastfed for the First Two Days After Birth,2006,64.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Honduras,HN,HND,340,Exclusively Breastfed for the First Two Days After Birth,2012,52.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Honduras,HN,HND,340,Exclusively Breastfed for the First Two Days After Birth,2006,65.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Honduras,HN,HND,340,Exclusively Breastfed for the First Two Days After Birth,2012,53.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+India,IN,IND,356,Exclusively Breastfed for the First Two Days After Birth,2006,41.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+India,IN,IND,356,Exclusively Breastfed for the First Two Days After Birth,2015,75.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+India,IN,IND,356,Exclusively Breastfed for the First Two Days After Birth,2006,40.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+India,IN,IND,356,Exclusively Breastfed for the First Two Days After Birth,2015,75.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+India,IN,IND,356,Exclusively Breastfed for the First Two Days After Birth,2006,41.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+India,IN,IND,356,Exclusively Breastfed for the First Two Days After Birth,2015,75.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2003,45.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2007,31.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2012,37.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2017,51.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2003,41.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2007,33.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2012,36.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2017,51.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2003,43.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2007,32.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2012,37.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Indonesia,ID,IDN,360,Exclusively Breastfed for the First Two Days After Birth,2017,51.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Iraq,IQ,IRQ,368,Exclusively Breastfed for the First Two Days After Birth,2018,44.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Iraq,IQ,IRQ,368,Exclusively Breastfed for the First Two Days After Birth,2018,42.5,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Iraq,IQ,IRQ,368,Exclusively Breastfed for the First Two Days After Birth,2011,46.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Iraq,IQ,IRQ,368,Exclusively Breastfed for the First Two Days After Birth,2018,43.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jamaica,JM,JAM,388,Exclusively Breastfed for the First Two Days After Birth,2011,73.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2002,40.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2007,38.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2012,28.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2017,51.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2002,39.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2007,38.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2012,32.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2017,53.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2002,39.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2007,38.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2012,30.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Jordan,JO,JOR,400,Exclusively Breastfed for the First Two Days After Birth,2017,52.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kazakhstan,KZ,KAZ,398,Exclusively Breastfed for the First Two Days After Birth,2010,85.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kazakhstan,KZ,KAZ,398,Exclusively Breastfed for the First Two Days After Birth,2015,83.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kenya,KE,KEN,404,Exclusively Breastfed for the First Two Days After Birth,2003,35.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kenya,KE,KEN,404,Exclusively Breastfed for the First Two Days After Birth,2008,58.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kenya,KE,KEN,404,Exclusively Breastfed for the First Two Days After Birth,2014,83.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kenya,KE,KEN,404,Exclusively Breastfed for the First Two Days After Birth,2003,33.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kenya,KE,KEN,404,Exclusively Breastfed for the First Two Days After Birth,2008,54.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kenya,KE,KEN,404,Exclusively Breastfed for the First Two Days After Birth,2014,83.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kenya,KE,KEN,404,Exclusively Breastfed for the First Two Days After Birth,2003,34.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kenya,KE,KEN,404,Exclusively Breastfed for the First Two Days After Birth,2008,56.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kenya,KE,KEN,404,Exclusively Breastfed for the First Two Days After Birth,2014,83.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kiribati,KI,KIR,296,Exclusively Breastfed for the First Two Days After Birth,2018,69.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kiribati,KI,KIR,296,Exclusively Breastfed for the First Two Days After Birth,2018,67.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kiribati,KI,KIR,296,Exclusively Breastfed for the First Two Days After Birth,2018,68.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kyrgyzstan,KG,KGZ,417,Exclusively Breastfed for the First Two Days After Birth,2012,86.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kyrgyzstan,KG,KGZ,417,Exclusively Breastfed for the First Two Days After Birth,2018,86.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kyrgyzstan,KG,KGZ,417,Exclusively Breastfed for the First Two Days After Birth,2012,83.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kyrgyzstan,KG,KGZ,417,Exclusively Breastfed for the First Two Days After Birth,2018,87.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kyrgyzstan,KG,KGZ,417,Exclusively Breastfed for the First Two Days After Birth,2012,85.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kyrgyzstan,KG,KGZ,417,Exclusively Breastfed for the First Two Days After Birth,2014,88.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Kyrgyzstan,KG,KGZ,417,Exclusively Breastfed for the First Two Days After Birth,2018,86.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lao People's Democratic Republic,LA,LAO,418,Exclusively Breastfed for the First Two Days After Birth,2017,72.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lao People's Democratic Republic,LA,LAO,418,Exclusively Breastfed for the First Two Days After Birth,2017,73.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lao People's Democratic Republic,LA,LAO,418,Exclusively Breastfed for the First Two Days After Birth,2011,62.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lao People's Democratic Republic,LA,LAO,418,Exclusively Breastfed for the First Two Days After Birth,2017,72.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2004,55.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2009,68.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2014,82.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2018,84.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2004,52.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2009,63.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2014,83.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2018,82.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2004,53.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2009,66.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2014,83.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Lesotho,LS,LSO,426,Exclusively Breastfed for the First Two Days After Birth,2018,83.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Liberia,LR,LBR,430,Exclusively Breastfed for the First Two Days After Birth,2007,72.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Liberia,LR,LBR,430,Exclusively Breastfed for the First Two Days After Birth,2013,87.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Liberia,LR,LBR,430,Exclusively Breastfed for the First Two Days After Birth,2019,86.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Liberia,LR,LBR,430,Exclusively Breastfed for the First Two Days After Birth,2007,74.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Liberia,LR,LBR,430,Exclusively Breastfed for the First Two Days After Birth,2013,87.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Liberia,LR,LBR,430,Exclusively Breastfed for the First Two Days After Birth,2019,88.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Liberia,LR,LBR,430,Exclusively Breastfed for the First Two Days After Birth,2007,73.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Liberia,LR,LBR,430,Exclusively Breastfed for the First Two Days After Birth,2013,87.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Liberia,LR,LBR,430,Exclusively Breastfed for the First Two Days After Birth,2019,87.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Madagascar,MG,MDG,450,Exclusively Breastfed for the First Two Days After Birth,2004,60.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Madagascar,MG,MDG,450,Exclusively Breastfed for the First Two Days After Birth,2009,74.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Madagascar,MG,MDG,450,Exclusively Breastfed for the First Two Days After Birth,2018,65.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Madagascar,MG,MDG,450,Exclusively Breastfed for the First Two Days After Birth,2004,59.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Madagascar,MG,MDG,450,Exclusively Breastfed for the First Two Days After Birth,2009,72.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Madagascar,MG,MDG,450,Exclusively Breastfed for the First Two Days After Birth,2018,66.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Madagascar,MG,MDG,450,Exclusively Breastfed for the First Two Days After Birth,2004,59.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Madagascar,MG,MDG,450,Exclusively Breastfed for the First Two Days After Birth,2009,73.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Madagascar,MG,MDG,450,Exclusively Breastfed for the First Two Days After Birth,2018,66.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2000,89.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2004,94.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2010,96.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2015,94.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2000,90.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2004,92.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2010,95.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2015,94.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2000,89.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2004,93.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2010,95.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2014,96.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Malawi,MW,MWI,454,Exclusively Breastfed for the First Two Days After Birth,2015,94.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Maldives,MV,MDV,462,Exclusively Breastfed for the First Two Days After Birth,2009,84.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Maldives,MV,MDV,462,Exclusively Breastfed for the First Two Days After Birth,2017,87.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Maldives,MV,MDV,462,Exclusively Breastfed for the First Two Days After Birth,2009,83.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Maldives,MV,MDV,462,Exclusively Breastfed for the First Two Days After Birth,2017,80.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Maldives,MV,MDV,462,Exclusively Breastfed for the First Two Days After Birth,2009,84.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Maldives,MV,MDV,462,Exclusively Breastfed for the First Two Days After Birth,2017,83.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2001,32.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2006,54.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2018,73.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2001,33.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2006,49.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2018,73.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2001,32.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2006,51.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2010,71.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2015,69.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mali,ML,MLI,466,Exclusively Breastfed for the First Two Days After Birth,2018,73.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mauritania,MR,MRT,478,Exclusively Breastfed for the First Two Days After Birth,2011,58.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mauritania,MR,MRT,478,Exclusively Breastfed for the First Two Days After Birth,2015,68.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mexico,MX,MEX,484,Exclusively Breastfed for the First Two Days After Birth,2015,63.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mongolia,MN,MNG,496,Exclusively Breastfed for the First Two Days After Birth,2018,75.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mongolia,MN,MNG,496,Exclusively Breastfed for the First Two Days After Birth,2018,73.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mongolia,MN,MNG,496,Exclusively Breastfed for the First Two Days After Birth,2010,88.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mongolia,MN,MNG,496,Exclusively Breastfed for the First Two Days After Birth,2013,71.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mongolia,MN,MNG,496,Exclusively Breastfed for the First Two Days After Birth,2018,74.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Montenegro,ME,MNE,499,Exclusively Breastfed for the First Two Days After Birth,2013,45.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Montenegro,ME,MNE,499,Exclusively Breastfed for the First Two Days After Birth,2018,44.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Morocco,MA,MAR,504,Exclusively Breastfed for the First Two Days After Birth,2003,32.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Morocco,MA,MAR,504,Exclusively Breastfed for the First Two Days After Birth,2003,32.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Morocco,MA,MAR,504,Exclusively Breastfed for the First Two Days After Birth,2003,32.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mozambique,MZ,MOZ,508,Exclusively Breastfed for the First Two Days After Birth,2003,83.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mozambique,MZ,MOZ,508,Exclusively Breastfed for the First Two Days After Birth,2011,92.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mozambique,MZ,MOZ,508,Exclusively Breastfed for the First Two Days After Birth,2003,81.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mozambique,MZ,MOZ,508,Exclusively Breastfed for the First Two Days After Birth,2011,91.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mozambique,MZ,MOZ,508,Exclusively Breastfed for the First Two Days After Birth,2003,82.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Mozambique,MZ,MOZ,508,Exclusively Breastfed for the First Two Days After Birth,2011,91.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Myanmar,MM,MMR,104,Exclusively Breastfed for the First Two Days After Birth,2016,80.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burma,MM,MMR,104,Exclusively Breastfed for the First Two Days After Birth,2016,80.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Myanmar,MM,MMR,104,Exclusively Breastfed for the First Two Days After Birth,2016,75.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burma,MM,MMR,104,Exclusively Breastfed for the First Two Days After Birth,2016,75.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Myanmar,MM,MMR,104,Exclusively Breastfed for the First Two Days After Birth,2016,78.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Burma,MM,MMR,104,Exclusively Breastfed for the First Two Days After Birth,2016,78.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Namibia,,NAM,516,Exclusively Breastfed for the First Two Days After Birth,2007,80.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Namibia,,NAM,516,Exclusively Breastfed for the First Two Days After Birth,2013,85.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Namibia,,NAM,516,Exclusively Breastfed for the First Two Days After Birth,2007,78.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Namibia,,NAM,516,Exclusively Breastfed for the First Two Days After Birth,2013,85.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Namibia,,NAM,516,Exclusively Breastfed for the First Two Days After Birth,2007,79.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Namibia,,NAM,516,Exclusively Breastfed for the First Two Days After Birth,2013,85.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2001,60.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2006,60.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2011,69.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2016,71.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2019,81.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2001,59.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2006,61.5,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2011,72.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2016,70.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2019,80.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2001,59.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2006,61.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2011,70.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2014,81.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2016,70.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nepal,NP,NPL,524,Exclusively Breastfed for the First Two Days After Birth,2019,80.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nicaragua,NI,NIC,558,Exclusively Breastfed for the First Two Days After Birth,2001,75.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nicaragua,NI,NIC,558,Exclusively Breastfed for the First Two Days After Birth,2001,76.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nicaragua,NI,NIC,558,Exclusively Breastfed for the First Two Days After Birth,2001,75.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Niger,NE,NER,562,Exclusively Breastfed for the First Two Days After Birth,2006,17.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Niger,NE,NER,562,Exclusively Breastfed for the First Two Days After Birth,2012,50.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Niger,NE,NER,562,Exclusively Breastfed for the First Two Days After Birth,2006,21.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Niger,NE,NER,562,Exclusively Breastfed for the First Two Days After Birth,2012,49.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Niger,NE,NER,562,Exclusively Breastfed for the First Two Days After Birth,2006,19.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Niger,NE,NER,562,Exclusively Breastfed for the First Two Days After Birth,2012,49.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2003,33.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2008,42.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2013,37.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2018,50.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2003,32.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2008,41.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2013,36.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2018,49.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2003,32.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2008,42.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2011,37.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2013,37.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2016,42.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Nigeria,NG,NGA,566,Exclusively Breastfed for the First Two Days After Birth,2018,49.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Exclusively Breastfed for the First Two Days After Birth,2019,34.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Exclusively Breastfed for the First Two Days After Birth,2019,24.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Exclusively Breastfed for the First Two Days After Birth,2011,60.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Exclusively Breastfed for the First Two Days After Birth,2019,28.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Pakistan,PK,PAK,586,Exclusively Breastfed for the First Two Days After Birth,2006,31.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Pakistan,PK,PAK,586,Exclusively Breastfed for the First Two Days After Birth,2013,24.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Pakistan,PK,PAK,586,Exclusively Breastfed for the First Two Days After Birth,2018,23.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Pakistan,PK,PAK,586,Exclusively Breastfed for the First Two Days After Birth,2006,29.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Pakistan,PK,PAK,586,Exclusively Breastfed for the First Two Days After Birth,2013,22.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Pakistan,PK,PAK,586,Exclusively Breastfed for the First Two Days After Birth,2018,22.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Pakistan,PK,PAK,586,Exclusively Breastfed for the First Two Days After Birth,2006,30.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Pakistan,PK,PAK,586,Exclusively Breastfed for the First Two Days After Birth,2013,23.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Pakistan,PK,PAK,586,Exclusively Breastfed for the First Two Days After Birth,2018,22.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Panama,PA,PAN,591,Exclusively Breastfed for the First Two Days After Birth,2013,65.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Papua New Guinea,PG,PNG,598,Exclusively Breastfed for the First Two Days After Birth,2017,80.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Papua New Guinea,PG,PNG,598,Exclusively Breastfed for the First Two Days After Birth,2017,77.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Papua New Guinea,PG,PNG,598,Exclusively Breastfed for the First Two Days After Birth,2017,78.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Paraguay,PY,PRY,600,Exclusively Breastfed for the First Two Days After Birth,2016,68.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2000,70.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2007,71.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2009,67.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2010,69.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2011,66.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2012,61.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2019,56.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2000,71.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2007,66.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2009,66.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2010,67.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2011,60.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2012,61.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2019,57.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2000,71.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2007,69.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2009,66.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2010,68.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2011,63.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2012,61.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Peru,PE,PER,604,Exclusively Breastfed for the First Two Days After Birth,2019,56.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2003,53.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2008,43.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2013,60.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2017,71.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2003,51.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2008,40.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2013,58.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2017,70.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2003,52.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2008,42.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2013,59.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Philippines,PH,PHL,608,Exclusively Breastfed for the First Two Days After Birth,2017,70.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Qatar,QA,QAT,634,Exclusively Breastfed for the First Two Days After Birth,2012,57.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Moldova, Republic of",MD,MDA,498,Exclusively Breastfed for the First Two Days After Birth,2005,89.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Moldova, Republic of",MD,MDA,498,Exclusively Breastfed for the First Two Days After Birth,2005,89.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Moldova, Republic of",MD,MDA,498,Exclusively Breastfed for the First Two Days After Birth,2005,89.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Moldova, Republic of",MD,MDA,498,Exclusively Breastfed for the First Two Days After Birth,2012,72.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Rwanda,RW,RWA,646,Exclusively Breastfed for the First Two Days After Birth,2010,84.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Rwanda,RW,RWA,646,Exclusively Breastfed for the First Two Days After Birth,2015,94.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Rwanda,RW,RWA,646,Exclusively Breastfed for the First Two Days After Birth,2010,84.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Rwanda,RW,RWA,646,Exclusively Breastfed for the First Two Days After Birth,2015,93.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Rwanda,RW,RWA,646,Exclusively Breastfed for the First Two Days After Birth,2010,84.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Rwanda,RW,RWA,646,Exclusively Breastfed for the First Two Days After Birth,2015,94.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Saint Lucia,LC,LCA,662,Exclusively Breastfed for the First Two Days After Birth,2012,67.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sao Tome and Principe,ST,STP,678,Exclusively Breastfed for the First Two Days After Birth,2008,85.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sao Tome and Principe,ST,STP,678,Exclusively Breastfed for the First Two Days After Birth,2019,86.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sao Tome and Principe,ST,STP,678,Exclusively Breastfed for the First Two Days After Birth,2008,85.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sao Tome and Principe,ST,STP,678,Exclusively Breastfed for the First Two Days After Birth,2019,86.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sao Tome and Principe,ST,STP,678,Exclusively Breastfed for the First Two Days After Birth,2008,85.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sao Tome and Principe,ST,STP,678,Exclusively Breastfed for the First Two Days After Birth,2014,89.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sao Tome and Principe,ST,STP,678,Exclusively Breastfed for the First Two Days After Birth,2019,86.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2005,29.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2011,47.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2013,42.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2014,37.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2015,41.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2017,46.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2018,42.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2019,45.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2005,28.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2011,43.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2013,40.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2014,38.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2015,39.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2017,47.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2018,39.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2019,41.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2005,28.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2011,45.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2013,41.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2014,37.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2015,40.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2017,46.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2018,41.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Senegal,SN,SEN,686,Exclusively Breastfed for the First Two Days After Birth,2019,43.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Serbia,RS,SRB,688,Exclusively Breastfed for the First Two Days After Birth,2019,34.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Serbia,RS,SRB,688,Exclusively Breastfed for the First Two Days After Birth,2019,34.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Serbia,RS,SRB,688,Exclusively Breastfed for the First Two Days After Birth,2010,44.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Serbia,RS,SRB,688,Exclusively Breastfed for the First Two Days After Birth,2014,31.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Serbia,RS,SRB,688,Exclusively Breastfed for the First Two Days After Birth,2019,34.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2008,39.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2013,74.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2017,89.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2019,88.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2008,36.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2013,75.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2017,89.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2019,85.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2008,38.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2010,69.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2013,75.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2017,89.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sierra Leone,SL,SLE,694,Exclusively Breastfed for the First Two Days After Birth,2019,87.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+South Africa,ZA,ZAF,710,Exclusively Breastfed for the First Two Days After Birth,2016,70.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+South Africa,ZA,ZAF,710,Exclusively Breastfed for the First Two Days After Birth,2016,71.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+South Africa,ZA,ZAF,710,Exclusively Breastfed for the First Two Days After Birth,2016,70.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Exclusively Breastfed for the First Two Days After Birth,2020,60.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Exclusively Breastfed for the First Two Days After Birth,2020,58.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Exclusively Breastfed for the First Two Days After Birth,2010,71.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Exclusively Breastfed for the First Two Days After Birth,2014,58.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Palestinian Territory, Occupied",PS,PSE,275,Exclusively Breastfed for the First Two Days After Birth,2020,59.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Sudan,SD,SDN,736,Exclusively Breastfed for the First Two Days After Birth,2014,67.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Suriname,SR,SUR,740,Exclusively Breastfed for the First Two Days After Birth,2018,54.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Suriname,SR,SUR,740,Exclusively Breastfed for the First Two Days After Birth,2018,45.5,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Suriname,SR,SUR,740,Exclusively Breastfed for the First Two Days After Birth,2010,41.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Suriname,SR,SUR,740,Exclusively Breastfed for the First Two Days After Birth,2018,49.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Tajikistan,TJ,TJK,762,Exclusively Breastfed for the First Two Days After Birth,2012,83.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Tajikistan,TJ,TJK,762,Exclusively Breastfed for the First Two Days After Birth,2012,83.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Tajikistan,TJ,TJK,762,Exclusively Breastfed for the First Two Days After Birth,2012,83.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Thailand,TH,THA,764,Exclusively Breastfed for the First Two Days After Birth,2012,70.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Thailand,TH,THA,764,Exclusively Breastfed for the First Two Days After Birth,2016,73.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Thailand,TH,THA,764,Exclusively Breastfed for the First Two Days After Birth,2019,73.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Timor-Leste,TL,TLS,626,Exclusively Breastfed for the First Two Days After Birth,2009,86.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Timor-Leste,TL,TLS,626,Exclusively Breastfed for the First Two Days After Birth,2016,78.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Timor-Leste,TL,TLS,626,Exclusively Breastfed for the First Two Days After Birth,2009,85.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Timor-Leste,TL,TLS,626,Exclusively Breastfed for the First Two Days After Birth,2016,78.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Timor-Leste,TL,TLS,626,Exclusively Breastfed for the First Two Days After Birth,2009,86.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Timor-Leste,TL,TLS,626,Exclusively Breastfed for the First Two Days After Birth,2016,78.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Togo,TG,TGO,768,Exclusively Breastfed for the First Two Days After Birth,2014,87.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Togo,TG,TGO,768,Exclusively Breastfed for the First Two Days After Birth,2017,86.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Togo,TG,TGO,768,Exclusively Breastfed for the First Two Days After Birth,2014,84.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Togo,TG,TGO,768,Exclusively Breastfed for the First Two Days After Birth,2017,83.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Togo,TG,TGO,768,Exclusively Breastfed for the First Two Days After Birth,2010,81.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Togo,TG,TGO,768,Exclusively Breastfed for the First Two Days After Birth,2014,85.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Togo,TG,TGO,768,Exclusively Breastfed for the First Two Days After Birth,2017,84.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Tonga,TO,TON,776,Exclusively Breastfed for the First Two Days After Birth,2019,82.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Tonga,TO,TON,776,Exclusively Breastfed for the First Two Days After Birth,2019,68.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Tonga,TO,TON,776,Exclusively Breastfed for the First Two Days After Birth,2019,75.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Trinidad and Tobago,TT,TTO,780,Exclusively Breastfed for the First Two Days After Birth,2011,58.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Tunisia,TN,TUN,788,Exclusively Breastfed for the First Two Days After Birth,2018,58.0,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Tunisia,TN,TUN,788,Exclusively Breastfed for the First Two Days After Birth,2018,53.1,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Tunisia,TN,TUN,788,Exclusively Breastfed for the First Two Days After Birth,2012,47.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Tunisia,TN,TUN,788,Exclusively Breastfed for the First Two Days After Birth,2018,55.4,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Turkmenistan,TM,TKM,795,Exclusively Breastfed for the First Two Days After Birth,2019,96.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Turkmenistan,TM,TKM,795,Exclusively Breastfed for the First Two Days After Birth,2019,95.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Turkmenistan,TM,TKM,795,Exclusively Breastfed for the First Two Days After Birth,2015,96.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Turkmenistan,TM,TKM,795,Exclusively Breastfed for the First Two Days After Birth,2019,96.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Turkey,TR,TUR,792,Exclusively Breastfed for the First Two Days After Birth,2004,60.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Turkey,TR,TUR,792,Exclusively Breastfed for the First Two Days After Birth,2004,58.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Turkey,TR,TUR,792,Exclusively Breastfed for the First Two Days After Birth,2004,59.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2000,38.1,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2006,46.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2011,58.5,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2016,71.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2000,35.6,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2006,45.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2011,56.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2016,71.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2000,36.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2006,45.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2011,57.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uganda,UG,UGA,800,Exclusively Breastfed for the First Two Days After Birth,2016,71.6,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ukraine,UA,UKR,804,Exclusively Breastfed for the First Two Days After Birth,2007,72.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ukraine,UA,UKR,804,Exclusively Breastfed for the First Two Days After Birth,2007,77.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ukraine,UA,UKR,804,Exclusively Breastfed for the First Two Days After Birth,2007,74.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Ukraine,UA,UKR,804,Exclusively Breastfed for the First Two Days After Birth,2012,81.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Tanzania, United Republic of",TZ,TZA,834,Exclusively Breastfed for the First Two Days After Birth,2010,67.4,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Tanzania, United Republic of",TZ,TZA,834,Exclusively Breastfed for the First Two Days After Birth,2015,85.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Tanzania, United Republic of",TZ,TZA,834,Exclusively Breastfed for the First Two Days After Birth,2010,66.4,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Tanzania, United Republic of",TZ,TZA,834,Exclusively Breastfed for the First Two Days After Birth,2015,83.7,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Tanzania, United Republic of",TZ,TZA,834,Exclusively Breastfed for the First Two Days After Birth,2010,66.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+"Tanzania, United Republic of",TZ,TZA,834,Exclusively Breastfed for the First Two Days After Birth,2015,84.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Uruguay,UY,URY,858,Exclusively Breastfed for the First Two Days After Birth,2013,78.1,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Viet Nam,VN,VNM,704,Exclusively Breastfed for the First Two Days After Birth,2010,36.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Vietnam,VN,VNM,704,Exclusively Breastfed for the First Two Days After Birth,2010,36.5,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Viet Nam,VN,VNM,704,Exclusively Breastfed for the First Two Days After Birth,2014,24.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Vietnam,VN,VNM,704,Exclusively Breastfed for the First Two Days After Birth,2014,24.7,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Yemen,YE,YEM,887,Exclusively Breastfed for the First Two Days After Birth,2013,29.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Yemen,YE,YEM,887,Exclusively Breastfed for the First Two Days After Birth,2013,29.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Yemen,YE,YEM,887,Exclusively Breastfed for the First Two Days After Birth,2013,29.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2002,74.6,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2007,88.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2013,94.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2018,91.3,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2002,74.0,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2007,88.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2013,92.3,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2018,91.2,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2002,74.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2007,88.9,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2013,93.2,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zambia,ZM,ZMB,894,Exclusively Breastfed for the First Two Days After Birth,2018,91.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2005,88.7,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2010,82.9,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2015,84.8,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2019,87.2,Female,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2005,87.9,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2010,84.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2015,86.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2019,86.8,Male,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2005,88.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2010,83.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2014,91.3,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2015,85.8,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old
+Zimbabwe,ZW,ZWE,716,Exclusively Breastfed for the First Two Days After Birth,2019,87.0,Total,Units,%,Reanalysed,Free,Middle of fieldwork,Under 24 months old

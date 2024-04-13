@@ -1,0 +1,262 @@
+---
+title: "The Lactation Chronicles"
+subtitle: "A sequel to Chad's Milkyway"
+author: "Daragh Fagan"
+date: "04/12/2024"
+format:
+  html: 
+   theme: journal
+   backgroundcolor: rgba(255, 218, 185, 0.5);
+   toc: true
+
+execute: 
+  echo: false
+  warning: false
+  message: false 
+  
+---
+```{r}
+#| label: setup
+#| include: false
+
+# libraries
+library(tidyverse)
+library(plotly)
+library(ggplot2)
+library(dplyr)
+library(gapminder)
+library(scales)
+library(readr)
+library(maps)
+
+#Data 
+unicef_indicator_1 <- read_csv("unicef_indicator_1.csv")
+unicef_metadata_continents_ <- read_csv("unicef_metadata (continents).csv")
+
+
+
+
+#Transformations
+data_join <- full_join(unicef_metadata_continents_, unicef_indicator_1, by =c("country" = "country"))
+data_join <- unicef_metadata_continents_ %>%
+  full_join(unicef_indicator_1, by = c("country", "year" = "time_period"))
+map_world <- map_data("world")
+map_world <- map_data("world")
+
+
+```
+
+### Introduction
+Breastfeeding is recognised by health experts worldwide as critical for child development and maternal health. It offers unparalleled health benefits such as immune support for infants and reduced disease risk for mothers. Despite its importance, breastfeeding rates vary significantly across different regions and socioeconomic backgrounds. Analysing breastfeeding data enables us to identify patterns, understand disparities, and evaluate the impact of public health policies and economic factors on breastfeeding practices. This report utilises comprehensive global data to explore these variations and aims to provide actionable insights that can support efforts to improve public health strategies and advocate for effective breastfeeding support programs worldwide.
+
+
+
+
+### A Geographical Overview
+Firstly, we present a world map that paints a picture of breastfeeding rates across different countries. This visualisation allows us to observe the vast differences in breastfeeding practices and highlights regions where rates are particularly high or low. From first glance we can clearly see **CHAD** (*situated in north central Africa*) has the lowest average percentage of all the countries.
+
+
+
+```{r}
+#Vis 1
+map_data_join <- full_join(unicef_indicator_1, map_world, by = c("country" = "region"))
+
+
+ggplot(map_data_join) + 
+  aes(x = long, y = lat, group = group, fill = obs_value) + 
+  geom_polygon(color = "white", size = 0.1) +  
+  scale_fill_gradient(low = "red", high = "green", name = "%", 
+                      limits = c(min(map_data_join$obs_value, na.rm = TRUE), 
+                                 max(map_data_join$obs_value, na.rm = TRUE)),
+                      breaks = pretty_breaks(n = 5)) +  
+  labs(
+    title = "Average % exclusively breastfed for first 48 hours",
+    caption = "Source: UNICEF"
+  ) + 
+  theme_void() +
+  theme(
+    plot.title = element_text(size = 16, hjust = 0.3, face = "bold"),  
+    plot.caption = element_text(size = 10, hjust = 0.5),  
+    legend.position = "right",  
+    legend.title.align = 0.5,  
+    legend.text = element_text(size = 12),  
+    plot.margin = margin(10, 10, 10, 10)  
+  ) +
+  guides(fill = guide_colourbar(title.position = "top", title.hjust = 0.5))  
+
+
+
+```
+
+
+
+
+
+### Continental Comparison
+The next Visualisation is a simple but effective bar chart that analyses the average breastfeeding rate by continent. As can be clearly seen, all the continents are of a similar average providing us with valuable inisght. This tells us that breastfeeding isnt influenced purely by economic factors - ***Europe*** typically seen as a very wealthy continent has the same average as ***Africa*** which is typically seen as a much poorer continent. We can also take from the bar chart that *Geographical Location* has no real bearing on breastfeeding rates either. With every continent being above *60%*, the question remains Why is ***Chad*** so low when it comes to breastfeeding rates.
+
+
+
+```{r}
+#Vis 2 
+avg_breastfeeding_by_continent <- data_join %>%
+  filter(!is.na(Continent) & Continent != "NA") %>%
+  group_by(Continent) %>%
+  summarise(AverageBreastfeedingRate = mean(obs_value, na.rm = TRUE)) %>%
+  mutate(AverageBreastfeedingRate = round(AverageBreastfeedingRate, 2)) %>%
+  ungroup()
+
+continent_colors <- c("Africa" = "orange", "Asia" = "red", 
+                      "Europe" = "blue", "North America" = "hotpink", 
+                      "Oceania" = "lightgreen", "South America" = "purple")
+
+ggplot_bar_chart <- ggplot(avg_breastfeeding_by_continent, aes(x = Continent, y = AverageBreastfeedingRate, fill = Continent)) +
+  geom_bar(stat = "identity", position = "dodge", show.legend = FALSE) + 
+  scale_fill_manual(values = continent_colors) + 
+  labs(title = "Average Breastfeeding Rate by Continent",
+       x = "Continent",
+       y = "Average Breastfeeding Rate (%)") +
+  theme_minimal() + 
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1, color = "grey20", size = 12), 
+    axis.text.y = element_text(color = "grey20", size = 12), 
+    plot.title = element_text(size = 16, face = "bold", hjust = 0.6), 
+    plot.subtitle = element_text(size = 14, margin = margin(b = 10)), 
+    plot.caption = element_text(size = 8, margin = margin(t = 10)), 
+    plot.background = element_rect(fill = "white", color = NA), 
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(), 
+    panel.grid.major.y = element_line(color = "#e1e1e1"), 
+    plot.margin = unit(c(1, 1, 1, 1), "cm") 
+  )
+
+plotly_bar_chart <- ggplotly(ggplot_bar_chart, tooltip = c("x", "y"))
+
+plotly_bar_chart
+```
+
+
+
+
+
+
+
+
+### Investigating Correlations
+The *scatter plot below* delves into the relationship between **breastfeeding rates** and **life expectancy** in various countries. Life expectancy is like a performance appraisal for a country. The higher the figure, usually the more advanced the country. More advanced by a better health care system, better education and generally a higher standard of living. 
+
+We can see from *the scatter plot* that breastfeeding rates are not influenced too much by a country's life expectancy. While there is no denying maternal deaths would have a great impact, the graph shows a relatively even distribution between the 4 quartiles. 
+
+Once again, **Chad** is clearly noticeable as it is the lowest point on the scatter plot. This signifies it is well below both averages *(average marked by dashed line)* meaning while life expectancy is influencing Chad's breastfeeding rates it is mainly influenced by other factors.
+
+
+
+```{r}
+#Vis 3
+country_averages <- data_join %>%
+  group_by(country, Continent) %>%
+  summarise(AvgLifeExpectancy = round(mean(`Life expectancy at birth, total (years)`, na.rm = TRUE), 2),
+            AvgBreastfeedingRate = round(mean(obs_value, na.rm = TRUE), 2)) %>%
+  ungroup()
+
+scatter_plot <- ggplot(country_averages, aes(x = AvgLifeExpectancy, y = AvgBreastfeedingRate, 
+                                             text = paste("Country: ", country, "<br>",
+                                                          "Avg. Life Expectancy: ", AvgLifeExpectancy, " years<br>",
+                                                          "Avg. Breastfeeding Rate: ", AvgBreastfeedingRate, "%"), 
+                                             color = Continent)) +
+  geom_point(alpha = 0.7, size = 2.5) +
+  scale_color_manual(values = c("Africa" = "orange", "Asia" = "red", 
+                                "Europe" = "blue", "North America" = "hotpink", 
+                                "Oceania" = "lightgreen", "South America" = "purple")) +
+  geom_hline(yintercept = mean(country_averages$AvgBreastfeedingRate, na.rm = TRUE), linetype = "dashed") +
+  geom_vline(xintercept = mean(country_averages$AvgLifeExpectancy, na.rm = TRUE), linetype = "dashed") +
+  labs(title = "Relationship between Life Expectancy and Breastfeeding",
+       x = "Avg. Life expectancy at birth, total (years)", 
+       y = "Avg. % exclusively breastfed for first 48 hours",
+       color = "Continent") +
+  theme_minimal() +
+  theme(legend.position = "bottom",
+        plot.title = element_text( hjust = 0.6, size = 16, face = "bold"))
+
+
+plotly_scatter_plot <- ggplotly(scatter_plot, tooltip = "text")
+
+plotly_scatter_plot
+```
+
+
+
+
+
+
+
+### GDP and Breastfeeding
+
+This time series graph tracks GDP per capita over several decades for ***countries with the lowest breastfeeding rates***. It's significant in showing how economic growth trajectories can correlate with health outcomes like breastfeeding rates. For instance, a country showing consistent economic growth might have more resources for public health initiatives that promote breastfeeding. 
+
+While all of these countries have extremely low breastfeeding trends, their GDP per capita doesnt follow the same trend. This is illustrated by the fact we see for example ***Chad*** at the bottom with low GDP per capita and a relatively stationary trend,  ***Vietnam*** who's GDP per capita has spiked up and continues to rise and lastly ***Yemen*** who's GDP per capita has plummeted in the last decade. This illustrates that Breatsfeeding rates are not influenced majorly by economic factors.
+
+
+
+```{r}
+#Vis 4
+
+avg_bf_rates <- data_join %>%
+  group_by(country) %>%
+  summarise(AverageBreastfeeding = mean(obs_value, na.rm = TRUE)) %>%
+  ungroup()
+
+lowest_bf_countries <- avg_bf_rates %>%
+  arrange(AverageBreastfeeding) %>%
+  top_n(-6, AverageBreastfeeding)
+
+filtered_gdp_data <- data_join %>%
+  filter(country %in% lowest_bf_countries$country)
+
+TimeSeries <- ggplot(filtered_gdp_data, 
+                     aes(x = year, 
+                         y = `GDP per capita (constant 2015 US$)`, 
+                         group = country, 
+                         color = country)) +
+  geom_line(size = 0.5) +  
+  geom_point(size = 0.7) +  
+  labs(title = "GDP per Capita Over Time", 
+       subtitle = "Countries with the lowest breastfeeding rates",
+       x = "Year", 
+       y = "GDP per Capita (constant 2015 US$)",
+       color = "Country") +  
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(size = 16, face = "bold"),
+    plot.subtitle = element_text(size = 12, face = "bold"),
+    axis.title.x = element_text(size = 12),
+    axis.title.y = element_text(size = 12),
+    axis.text.x = element_text(angle = 45, vjust = 0.5),
+    panel.grid.major = element_line(color = "#cbcbcb"),
+    panel.grid.minor = element_blank(),
+    panel.background = element_rect(fill = "white", color = NA),
+    legend.position = "right",  
+    legend.title.align = 0.5,
+    legend.text = element_text(size = 10)
+  ) +
+  scale_x_continuous(breaks = seq(min(filtered_gdp_data$year), max(filtered_gdp_data$year), by = 10)) +
+  scale_y_continuous(labels = label_comma(accuracy = 0.01)) +
+  scale_color_brewer(palette = "Set2")  
+
+interactive_TimeSeries <- ggplotly(TimeSeries, tooltip = c("x", "y", "color"))
+
+interactive_TimeSeries
+```
+
+
+
+
+
+### Conclusion
+Despite challenges like limited data and unique cultural factors, our analysis underscores the importance of understanding and addressing determinants of breastfeeding practices. To achieve this I belive increased quality and range of data is needed. Unfortunately the data presented to me was very sparse and therefore difficult to make a report out of it.
+
+However this dashboard was very successful highlighting the multifaceted nature of Breastfeeding rates and the worrying low rates in Chad. Our geographical analysis highlighted Chad's notably low breastfeeding rates, prompting a deeper inquiry into the underlying reasons. The continental comparison revealed a surprising uniformity in breastfeeding rates, suggesting the influence of factors other than wealth or geographical placement. Further, our scatter plot analysis indicated that while life expectancy does not directly dictate breastfeeding practices, it can reflect broader health and social issues that may affect them. Finally, the time series on GDP per capita demonstrated that economic prosperity does not ensure higher breastfeeding rates, as seen in the diverse economic trajectories of countries with low breastfeeding practices.
+
+Chad's consistently low breastfeeding rates highlight the urgent need for targeted interventions. Our findings emphasise the need for tailored policies to promote breastfeeding and improve maternal and child health globally. I believe education to be the key to achieving higher breastfeeding rates. 
+
+
